@@ -1,4 +1,4 @@
-## 该文件夹是用来存放训练数据的目录
+## Zemi Test
 
 ## Dataset
 
@@ -14,3 +14,5 @@
        └── val（生成的验证集，364个样本） 
 ```
 
+## Train
+python train.py
