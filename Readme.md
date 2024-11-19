@@ -1,5 +1,8 @@
 ## Zemi Test
 
+## create virtual environment
+xxx
+
 ## Dataset
 
 * （1）在data_set文件夹下创建新文件夹"flower_data"
