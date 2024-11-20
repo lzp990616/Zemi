@@ -1,9 +1,9 @@
 ## Zemi Test
 
-## create virtual environment
+## 1. Create virtual environment
 xxx
 
-## Dataset
+## 2. Dataset
 
 * （1）在data_set文件夹下创建新文件夹"flower_data"
 * （2）点击链接下载花分类数据集 [https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz](https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz)
@@ -20,5 +20,5 @@ xxx
 根据代码改一下路径，或者根据路径改一下代码
 然后debug
 
-## Train
+## 3. Train
 python train.py
